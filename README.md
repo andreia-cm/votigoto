@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Fix TypeError in check_cfg() (#9245)
