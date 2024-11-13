@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Batch inference fixes (#8854)
